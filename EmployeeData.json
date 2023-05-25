@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Balu",
+      "sex": "Maq",
+      "dob": "12-10-1992",
+      "salary": "2,13,000",
+      "department": "Accounts"
+    },
+    {
+      "id": 2,
+      "name": "Devaki",
+      "sex": "F",
+      "dob": "13-10-2001",
+      "salary": "3,67,000",
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Sara",
+      "sex": "M",
+      "dob": "14-10-1995",
+      "salary": "6,50,000",
+      "department": "Development"
+    },
+    {
+      "id": 4,
+      "name": "Gayathri",
+      "sex": "F",
+      "dob": "15-10-1993",
+      "salary": "8,00,000",
+      "department": "Hr"
+    },
+    {
+      "id": 5,
+      "name": "Sundar",
+      "sex": "M",
+      "dob": "16-10-2000",
+      "salary": "9,44,000",
+      "department": "Project Manager"
+    },
+    {
+      "id": 6,
+      "name": "Jhansi",
+      "sex": "F",
+      "dob": "17-10-1963",
+      "salary": "9,87,600",
+      "department": "Manager"
+    },
+    {
+      "id": 7,
+      "name": "Bala Kumar",
+      "sex": "M",
+      "dob": "18-10-1987",
+      "salary": "7,50,000",
+      "department": "Developing Manager"
+    },
+    {
+      "name": "Sravani",
+      "sex": "F",
+      "dob": "14-10-1992",
+      "salary": "3,45,000",
+      "department": "Accounts",
+      "id": 8
+    },
+    {
+      "name": "Devaraju",
+      "sex": "M",
+      "dob": "18-10-1999",
+      "salary": "3,20,000",
+      "department": "Associate",
+      "id": 9
+    },
+    {
+      "name": "Vasuki",
+      "sex": "F",
+      "dob": "14-11-1999",
+      "salary": "4,56,000",
+      "department": "Accounts",
+      "id": 10
+    }
+  ]
+}
